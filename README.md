@@ -5,8 +5,8 @@
 ### Author: Julie Erlemeier
 
 ### Links and Resources
-* [submission PR](https://github.com/jmerlemeier-401-advanced-javascript/lab-00)
-* [travis](https://www.travis-ci.com/dashboard)
+* [Travis](https://www.travis-ci.com/jmerlemeier-401-advanced-javascript/lab-00)
+* [Heroku](https://deployment-00.herokuapp.com/)
 
 #### Documentation
 * [jsdoc](https://github.com/codefellows/code-401-JS-prework/tree/master/deployment-workshop)
